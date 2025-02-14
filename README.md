@@ -17,7 +17,18 @@ over the field $\mathbb{F}_{5^2}$, where the field is constructed using the irre
 - **Finding $r$-torsion points**: Computes points $P$ such that $rP = O$.
 
 ## Usage
+### Prerequisites
 
+- Rust installed. If not, install it using [rustup](https://rustup.rs/).
+- Cargo package manager (comes with Rust).
+
+### Installation
+
+Clone this repository:
+
+```sh
+git clone https://github.com/cypriansakwa/Computing_the_Full_r_Torsion_Group_of_an_Elliptic_Curve_over_Extended_Fields.git
+cd Computing_the_Full_r_Torsion_Group_of_an_Elliptic_Curve_over_Extended_Fields
 ### Compiling and Running
 
 Ensure you have Rust installed. Then, compile and run the program using:
