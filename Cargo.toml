@@ -1,0 +1,8 @@
+[package]
+name = "Computing_the_Full_r_Torsion_Group_of_an_Elliptic_Curve_over_Extended_Fields"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+
